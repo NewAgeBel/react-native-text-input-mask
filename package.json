@@ -1,6 +1,6 @@
 {
   "name": "@newagebel/react-native-text-input-mask",
-  "version": "3.1.4",
+  "version": "4.0.0",
   "description": "Text input mask for React Native.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
